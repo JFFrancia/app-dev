@@ -15,4 +15,4 @@
 | Hughie Campbell | Jack Quaid |
 | Annie January | Erin Moriarty |
 
-**Learn more at:** (The Boys Wiki)https://the-boys.fandom.com/wiki/The_Boys_Wiki
+**Learn more at:** [The Boys Wiki](https://the-boys.fandom.com/wiki/The_Boys_Wiki)
